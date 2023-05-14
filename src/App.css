@@ -1,0 +1,16 @@
+.bg-img{
+  background-image: url("./images/Back\ Ground.png");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: 100% 100%;
+
+}
+
+@font-face {
+  font-family:Roboto ;
+  src: url("/public/fonts/Roboto/Roboto-Regular.ttf");
+}
+@font-face {
+  font-family:Ravely ;
+  src: url("/public/fonts/Raleway/Raleway-VariableFont_wght.ttf");
+}
